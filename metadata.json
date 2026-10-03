@@ -1,0 +1,8 @@
+{
+  "name": "Cloudveil Ridge Sanctuary",
+  "description": "A boutique hill-view sanctuary nestled among cedar forests and misty ridgelines with mountain dusk hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
